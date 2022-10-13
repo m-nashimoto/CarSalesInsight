@@ -2,7 +2,7 @@
 title: "Project 1"
 author: "Masana Nashimoto"
 date: "`r Sys.Date()`"
-output: ioslides_presentation
+output: rmarkdown::github_document
 ---
 
 <style type="text/css">
